@@ -1,7 +1,7 @@
-9a1714b689b3915f8d9d1b536c640b44 *DESCRIPTION
+b975373246af5b11996e08e39e4d831a *DESCRIPTION
 e243664a5a9488705d34e39c2ee653db *LICENSE
 a1f5c6a2ae7edbfebf40b50702ba4731 *NAMESPACE
-bb9561b2701467679582aa265da73092 *NEWS.md
+13fd98e32b0e5fdcc2195515beab5bc2 *NEWS.md
 6ef4db54bd23ad5ee556ca6a9e8bdb16 *R/AET01_table.R
 e98abbe8964c567659b54ffa8369df27 *R/AET02_table.R
 26be7116a73e50b92759e02dcaa2bf42 *R/calc-stats.R
@@ -9,7 +9,7 @@ d7dc47d5d96390d1475b6fcdf777debf *R/cdisc-data.R
 04834601b3f867d3c8084b14a3d3e9a1 *R/cross_tab_to_obsv_tab.R
 432aebd0a3784c2d8a48fe29863a7115 *R/data-table-utils.R
 8935e129ba310d9800a46d6cb0965af5 *R/dt-copy-semantics.R
-342a576204cb19cf40922fd17f83a048 *R/dt-helpers.R
+09019a3877f659ea94f0780acd96e93a *R/dt-helpers.R
 8a8b6be7a0ea0f25c980a6c7e309109b *R/dtlg-package.R
 ffbbae624d8dafdef661c1c9c7ed15b0 *R/events.R
 8ee74768a5f0c5d432658fd699d9c004 *R/formatters.R
@@ -28,7 +28,7 @@ a4a49a8245ad1be8ab13dce883b64b47 *R/package-availability.R
 569ba82ea31184885d470debd886d4eb *R/tern.R
 1a470e8430ef9ba2d6b7bfd589b22e1b *R/with_label.R
 af165fafd100474a2880b802cfe6237a *R/zzz.R
-7c4a36feeb7ce6d4031eebbc18551c45 *README.md
+cb6366093c07883bfa2f1677aee201c2 *README.md
 c2aba18f21314e0c6dc8c4b32f88ec95 *data/adae.rda
 c425f6421484c64a6ac9a5a1b81d9542 *data/adlb.rda
 8393d0b0683b889c2206897e25475ad4 *data/adsl.rda
@@ -45,7 +45,7 @@ fe5c3d45f4100dda9b78cdf2c0ea0cc8 *man/calc_desc.Rd
 0587bd057be16df8b8a228222ce51234 *man/calc_stats.Rd
 57dfa9925d1a429576372994b8f3c38f *man/cross_tab_to_obsv_tab.Rd
 a5ead1fdea328dace87c79e1cced7917 *man/dt_copy_semantics.Rd
-66359047286f8ceb6b21b2d7b6403701 *man/dtlg-package.Rd
+a6e5bbf1879b50914eccc7469aa8beef *man/dtlg-package.Rd
 d1d301ad5458c0e3a6cac322156927b0 *man/event_count.Rd
 6bb29b66afa85c0c7a2015c457493729 *man/event_count_by.Rd
 cb8de32b43384807e269486457d5df17 *man/figures/AET01_median.png
